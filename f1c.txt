@@ -9,3 +9,4 @@ scanf("%d%d", &a&b);
 printf("the value of a+b= ",c);
 }
 this is 1st edit
+this is 2nd edit
