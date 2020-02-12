@@ -1,0 +1,10 @@
+public class add
+{
+public static void main(strgs[])
+{
+int a,b;
+a=10;
+b=20;
+system.out.println("the sum :"+(a+b));
+}
+}
